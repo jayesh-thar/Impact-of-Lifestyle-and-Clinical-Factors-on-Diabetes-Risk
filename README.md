@@ -2,5 +2,5 @@
 
 
 ```ruby
-Tanish is connected and completely only
+Tanish is connected and completely online
 ```
